@@ -1,0 +1,9 @@
+/vendor/
+/.env
+/.idea/
+.vscode/
+*.log
+*.htaccess
+
+/storage/logs/*
+!/storage/logs/.gitkeep
